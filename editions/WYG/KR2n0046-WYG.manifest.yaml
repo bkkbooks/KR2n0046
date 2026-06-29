@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR2n0046/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2n0046/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金石經眼錄
+  date: '2015-08-24 22:55:31.776596'
+  source:
+    repository: kanripo
+    path: KR2n0046
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2n0046_000-WYG.yaml, hash: 'sha256:0644c1c4fe39ab29c06003bcc867166e292afa8e7fc1bc1cfcfc71e3ed03b9fb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2n0046_000-WYG.markers.yaml, hash: 'sha256:19d0971d23bd5412aa24062674f0951775cb3bce06b5452e7d2de823471477c1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2n0046_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 352
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2n0046_WYG_000-3a
+    span:
+    - body
+    - 352
+    - 3400
+  label: 金石經眼録
+  type: section
+  level: 1
+hash: sha256:5bb59161cb58b30d9a81474294baa5d9f42a9b2515abe951ab5794d27093aff6
