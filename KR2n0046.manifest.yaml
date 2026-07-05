@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2n0046_000.yaml, hash: 'sha256:cb3f4e445b2c15eaae4fd1989149a2ee2f97c5597af8cfd334e0e2911635a783'}
+  - {seq: 0, filename: KR2n0046_000.yaml, hash: 'sha256:b40cccc93732e6098dd1c194b04b1dc88f79b1d65465881f3549398adadd6505'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0046_000.markers.yaml, hash: 'sha256:6358c1931be5739a8912809d74ab57a512ab9dfa3a9fe8d98eddc0f222256781'}
+  - {seq: 0, role: markers, filename: assets/KR2n0046_000.markers.yaml, hash: 'sha256:9bfb998474120f14c871ddde1d924717c60c864995893771a3bcac289e6f31b5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 金石經眼録
   type: section
   level: 1
-hash: sha256:0baec954fc2cfc37cc75788c5a3a46364205a13852dccabf5b83cf351b5f4cbf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d78b995b285de2e6bb9fe340c374f985c83e63e4fcc90baa05c4da4a79b37c22
