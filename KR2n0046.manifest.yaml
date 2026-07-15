@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2n0046/v1
 canonical_location: https://kanripo.org/bkk/KR2n0046/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金石經眼錄
   date: '2015-08-24 22:55:31.776596'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2n0046_000.yaml, hash: 'sha256:b40cccc93732e6098dd1c194b04b1dc88f79b1d65465881f3549398adadd6505'}
+  - {seq: 0, filename: KR2n0046_000.yaml, hash: 'sha256:94d5205302483528cb5da1396e80fa0357cbd5ff8b6a8f9dddfee5eacc198e08'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0046_000.markers.yaml, hash: 'sha256:9bfb998474120f14c871ddde1d924717c60c864995893771a3bcac289e6f31b5'}
+  - {seq: 0, role: markers, filename: assets/KR2n0046_000.markers.yaml, hash: 'sha256:ff9d6a2b80c4cb58ed5426bb38adcbfffa213349f13a44029ccb0e62be668105'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 金石經眼録
   type: section
   level: 1
-hash: sha256:d78b995b285de2e6bb9fe340c374f985c83e63e4fcc90baa05c4da4a79b37c22
+hash: sha256:4ee946fc35531d8a87181c4a90ac8ebb62a679ad2e4677fcbffcec3d7f38376e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
