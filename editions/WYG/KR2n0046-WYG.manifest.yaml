@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2n0046_000-WYG.yaml, hash: 'sha256:0644c1c4fe39ab29c06003bcc867166e292afa8e7fc1bc1cfcfc71e3ed03b9fb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0046_000-WYG.markers.yaml, hash: 'sha256:19d0971d23bd5412aa24062674f0951775cb3bce06b5452e7d2de823471477c1'}
+  - {seq: 0, role: markers, filename: assets/KR2n0046_000-WYG.markers.yaml, hash: 'sha256:ce79cc61d9777aaefcb8ce53fd03f09d8f7bcd6bef53081d1ba12c50fd82d665'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 金石經眼録
   type: section
   level: 1
-hash: sha256:5bb59161cb58b30d9a81474294baa5d9f42a9b2515abe951ab5794d27093aff6
+hash: sha256:a4d7b08ddb9d10882540bab87762409578c2fd992f55cb8613d166b7c6652ff8

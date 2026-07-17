@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2n0046_000.yaml, hash: 'sha256:94d5205302483528cb5da1396e80fa0357cbd5ff8b6a8f9dddfee5eacc198e08'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0046_000.markers.yaml, hash: 'sha256:ff9d6a2b80c4cb58ed5426bb38adcbfffa213349f13a44029ccb0e62be668105'}
+  - {seq: 0, role: markers, filename: assets/KR2n0046_000.markers.yaml, hash: 'sha256:49f2d679c9dbbe87af0547f8d64b5e56351746fd4586f3d51258f259aa7bfdc7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 金石經眼録
   type: section
   level: 1
-hash: sha256:4ee946fc35531d8a87181c4a90ac8ebb62a679ad2e4677fcbffcec3d7f38376e
+hash: sha256:d1b8e29342227733d0b61be6e33639a25a1566223f3b836626f373adca17c7b5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
